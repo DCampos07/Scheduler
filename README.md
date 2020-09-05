@@ -12,7 +12,7 @@ It has a clean, polished, and responsive user interface with the following direc
 
 #### Sources Links:
 * [GitHub Repository](https://github.com/DCampos07/Scheduler.git)
-* [Deployed GitHub IO] (https://dcampos07.github.io/Scheduler/)
+* [Deployed GitHub IO](https://dcampos07.github.io/Scheduler/)
 
 #### Project Screenshot
 
