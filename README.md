@@ -11,7 +11,9 @@ It has a clean, polished, and responsive user interface with the following direc
 * When refreshing the page, then saved events persist.
 
 #### Sources Links:
-* [GitHub Repository]()
-
+* [GitHub Repository](https://github.com/DCampos07/Scheduler.git)
+* [Deployed GitHub IO] (https://dcampos07.github.io/Scheduler/)
 
 #### Project Screenshot
+
+![scheduler-screenshot.png](https://github.com/DCampos07/Scheduler/blob/master/Develop/scheduler-screenshot.png)
