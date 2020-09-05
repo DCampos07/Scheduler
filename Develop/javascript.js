@@ -24,6 +24,8 @@ var taskNotification = function() {
 }
 taskNotification();
 
+setInterval(taskNotification,15000);
+
 // Save Funchtion
 $(document).ready(function() {
   $(".saveBtn").on('click', function() {
